@@ -1,0 +1,4 @@
+#Tue Aug 13 12:24:33 IST 2019
+base.0=C\:\\Users\\Kala\\androidapps\\KotlinStudy\\GloboFly\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
