@@ -6,22 +6,9 @@
         android:layout_height="match_parent"
         tools:context=".fragments.WebViewFragment">
 
-    <LinearLayout
-            android:orientation="vertical"
+    <WebView
+            android:id="@+id/webView"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-        <TextView
-                android:id="@+id/web_text"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="@string/hello_blank_fragment"/>
-
-        <WebView
-                android:id="@+id/webView"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
-
-    </LinearLayout>
+            android:layout_height="wrap_content"/>
 
 </FrameLayout>
