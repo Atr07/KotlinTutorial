@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinWeb</string>
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="snack_bar_text">Snack Bar</string>
+    <string name="web_view_text">Web View</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
